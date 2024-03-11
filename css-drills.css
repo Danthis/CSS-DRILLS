@@ -1,0 +1,116 @@
+body {
+    font-family: Times New Roman, Arial;
+    background-color: lightgray;
+}
+
+h2,
+p,
+.readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: midnightblue;
+}
+
+a:hover {
+    border: 2px solid black;
+    cursor: pointer;
+    color: crimson;
+    font-weight: bold;
+}
+
+
+span {
+    color: crimson;
+    font-weight: 200;
+}
+
+.boxes {
+    margin: 5em;
+    padding: 5em;
+    border: 4px solid purple;
+    border-radius: 15px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: aqua;
+}
+
+#box2 {
+    background-color: aquamarine;
+
+}
+
+#box3 {
+    background-color: goldenrod;
+}
+
+#box4 {
+    background-color: darkolivegreen;
+}
+
+.divimg {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: khaki;
+    position: relative;
+    float: left;
+    left: 80px;
+}
+
+.original {
+    color: green;
+}
+
+.additional {
+    color: goldenrod;
+}
+
+#show1 {
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+#show2 {
+    font-style: oblique;
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.265);
+}
+
+#show3 {
+    font-family: arial;
+    color: rgb(92, 86, 86);
+}
+
+#show4 {
+    font-family: georgia;
+    color: goldenrod;
+}
+
+#show5 {
+    font-family: gill sans;
+    color: olivedrab;
+}
+
+ul {
+    color: green;
+}
+
+.star {
+    color: rgb(184, 135, 14);
+}
+
+#wars {
+    color: blueviolet;
+}
+
+.border {
+    border: 2px solid black;
+}
